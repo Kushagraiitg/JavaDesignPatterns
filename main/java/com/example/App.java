@@ -10,5 +10,6 @@ public class App
     {
         System.out.println( "Here goes setup!" );
         System.out.println("Second commit");
+        System.out.println("Third commit");
     }
 }
